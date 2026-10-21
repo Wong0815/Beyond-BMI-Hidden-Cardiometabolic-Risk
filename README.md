@@ -1,3 +1,4 @@
+
 # Beyond BMI: Hidden Cardiometabolic Risk Among Normal-Weight U.S. Adults
 
 ## Research Question
@@ -83,6 +84,8 @@ Among 535 normal-BMI adults, 89 were classified as having hidden cardiometabolic
 
 This suggests that a meaningful proportion of normal-weight adults have multiple cardiometabolic abnormalities despite having a BMI in the normal range.
 
+![Overall Hidden Cardiometabolic Risk](figures/01_overall_hidden_risk.png)
+
 ### Individual Cardiometabolic Risk Factors
 
 | Risk Factor | Weighted Prevalence |
@@ -94,6 +97,8 @@ This suggests that a meaningful proportion of normal-weight adults have multiple
 | Elevated Waist Circumference | 4.5% |
 
 Elevated blood pressure was the most common individual risk factor.
+
+![Cardiometabolic Risk Factors](figures/02_cardiometabolic_risk_factors.png)
 
 ### Hidden Risk by Income
 
@@ -156,6 +161,8 @@ After adjusting for age, sex, and BMI:
 
 However, the less-than-ninth-grade group contained only 22 participants, so this estimate should be interpreted cautiously.
 
+![Health Equity and Demographic Differences](figures/03_health_equity_prevalence.png)
+
 ### Mortality Analysis
 
 The historical NHANES mortality sample included 3,368 adults and 118 observed deaths.
@@ -174,6 +181,8 @@ A Cox proportional hazards model was used to examine the association between hid
 After adjusting for age, sex, and BMI, adults with hidden cardiometabolic risk had approximately 2.52 times the mortality hazard of lower-risk adults during follow-up.
 
 This represents an association rather than evidence that hidden cardiometabolic risk directly caused mortality.
+
+![Mortality by Hidden Cardiometabolic Risk](figures/04_mortality_by_hidden_risk.png)
 
 ## Key Findings
 
@@ -285,7 +294,7 @@ The analysis generates:
 - `results/` — Statistical summaries, prevalence estimates, odds ratios, and mortality model results
 - `figures/` — Four visualizations showing overall hidden risk, individual risk factors, demographic differences, and mortality
 
-The results and figures can be included in the repository for reference.
+The results and figures are included in the repository for reference.
 
 ### Data Availability
 
