@@ -1,0 +1,10 @@
+term,Odds_Ratio,CI_Lower,CI_Upper,P_Value
+(Intercept),0,0,0.08,0.0071
+race_ethnicityMexican American,6.81,1.3,35.63,0.0289
+race_ethnicityOther Hispanic,1.87,0.68,5.13,0.1869
+race_ethnicityNon-Hispanic Black,1.28,0.28,5.86,0.7177
+race_ethnicityNon-Hispanic Asian,2.71,0.79,9.27,0.0963
+race_ethnicityOther Race - Including Multi-Racial,3.74,1.05,13.33,0.0441
+ridageyr,1.05,1.02,1.08,0.0046
+sexMale,1.01,0.46,2.2,0.9862
+bmi,1.11,0.9,1.36,0.2644

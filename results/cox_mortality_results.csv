@@ -1,0 +1,5 @@
+"term","Hazard_Ratio","CI_Lower","CI_Upper","P_Value"
+"hidden_risk_groupHidden Cardiometabolic Risk",2.52,1.72,3.69,0
+"ridageyr",1.09,1.07,1.11,0
+"sexMale",1.98,1.36,2.88,4e-04
+"bmi",0.82,0.74,0.91,3e-04

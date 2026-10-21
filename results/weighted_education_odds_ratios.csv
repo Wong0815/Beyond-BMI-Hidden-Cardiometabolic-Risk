@@ -1,0 +1,9 @@
+term,Odds_Ratio,CI_Lower,CI_Upper,P_Value
+(Intercept),0,0,0.28,0.0192
+educationSome College / AA,1.82,0.75,4.44,0.16
+educationHigh School / GED,1.91,0.41,8.87,0.3609
+education9th-11th Grade,1.57,0.37,6.71,0.4956
+educationLess than 9th Grade,7.78,1.68,36.11,0.015
+ridageyr,1.04,1.02,1.07,0.0066
+sexMale,0.87,0.4,1.93,0.7046
+bmi,1.1,0.89,1.35,0.3294
